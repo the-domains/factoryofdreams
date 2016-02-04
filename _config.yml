@@ -1,7 +1,7 @@
 name: Factory Of Dreams
 favicon: null
-layout_spectrum: 0.28567211516201496
-typography_spectrum: 0.05532565480098128
+layout_spectrum: 0.74759
+typography_spectrum: 0.10983
 title: Factory Of Dreams
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.8161186601500958
-  lightness: 0.9091745754703879
-  saturation: 0.38915494875982404
-  rhythmicContrast: 0.0982157273683697
+    - '#ffffff'
+    - '#a3e1e1'
+    - '#b99a78'
+    - '#e2594a'
+    - '#5c5c5c'
+  brandStrength: 0.6875
+  lightness: 1
+  saturation: 0.5
+  rhythmicContrast: 0
 purpose: []
