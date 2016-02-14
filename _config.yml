@@ -1,6 +1,6 @@
 name: Factory Of Dreams
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.23892
 typography_spectrum: 0.93449
 title: Factory Of Dreams
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.5
   lightness: 1
   saturation: 0.5
-  rhythmicContrast: 0
+  rhythmicContrast: 0.5
 purpose: []
