@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: "Victoria Chanel Lee's Graphic designs"
-datePublished: '2016-02-14T18:37:28.306Z'
-dateModified: '2016-02-14T18:37:26.050Z'
+description: ''
+datePublished: '2016-02-15T08:09:22.848Z'
+dateModified: '2016-02-15T08:08:33.398Z'
 title: Graphic Design
 author: []
 sourcePath: _posts/2016-02-14-graphic-design.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: graphic-design/index.html
-_type: Article
+_type: Blurb
 
 ---
 Graphic designing has been
