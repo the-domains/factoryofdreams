@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: Free web and website help for local non-profits
-datePublished: '2016-02-15T07:57:59.455Z'
-dateModified: '2016-02-15T07:57:50.444Z'
+datePublished: '2016-02-15T08:09:16.197Z'
+dateModified: '2016-02-15T08:07:59.825Z'
 title: Websites for Hope (WFH)
 author: []
 sourcePath: _posts/2016-02-15-websites-for-hope-wfh.md
@@ -18,13 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: websites-for-hope-wfh/index.html
-_type: Article
+_type: Blurb
 
 ---
-Websites for Hope is 
-
-Work done under WFH:
-
-* _St Joseph Church Bukit Timah_ | Website & Webmastering
-* _Once Upon A Monday_ | Website
+Websites for Hope is
