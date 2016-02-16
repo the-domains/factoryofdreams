@@ -2,13 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-15T08:09:22.848Z'
-dateModified: '2016-02-15T08:08:33.398Z'
+datePublished: '2016-02-16T17:41:47.750Z'
+dateModified: '2016-02-16T17:41:44.162Z'
 title: Graphic Design
 author: []
 sourcePath: _posts/2016-02-14-graphic-design.md
@@ -22,5 +22,4 @@ publisher:
 _type: Blurb
 
 ---
-Graphic designing has been
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d02afae1-425e-4e79-bc63-a9de8fa0e585.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9421a5b9107c08035566079d2831fcd5af710107.jpg)
