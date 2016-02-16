@@ -1,52 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Factory Of Dreams | Victoria Chanel Lee's Portfolio]]></title>
-        <description><![CDATA[Factory Of Dreams | Victoria Chanel Lee's Portfolio]]></description>
+        <title><![CDATA[Factory Of Dreams x Victoria Chanel Lee]]></title>
+        <description><![CDATA[Factory Of Dreams x Victoria Chanel Lee]]></description>
         <link>http://factoryofdreams.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 07:58:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Feb 2016 17:48:07 GMT</lastBuildDate>
         <atom:link href="http://factoryofdreams.net/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Photography]]></title>
-            <description><![CDATA[<article><h1>Photography</h1><p>I love taking photos as a way of documenting memories. places, spaces </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c10d8dfcebd3873163dda186e5618a3f21b5ff14.jpg"></article>]]></description>
-            <link>http://factoryofdreams.net/photography/index.html</link>
-            <guid isPermaLink="false">09e01bb2-db9a-4bd1-bb1a-f4d81d6ad59a</guid>
-            <pubDate>Mon, 15 Feb 2016 07:55:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Websites for Hope (WFH)]]></title>
-            <description><![CDATA[<article><h1>Websites for Hope (WFH)</h1><p>Websites for Hope is </p></article>]]></description>
-            <link>http://factoryofdreams.net/websites-for-hope-wfh/index.html</link>
-            <guid isPermaLink="false">62ef297b-6bb4-4a40-b421-9f725a900582</guid>
-            <pubDate>Mon, 15 Feb 2016 07:57:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Graphic Design]]></title>
-            <description><![CDATA[<article><h1>Graphic Design</h1><p>Graphic designing has been</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9421a5b9107c08035566079d2831fcd5af710107.jpg"></article>]]></description>
-            <link>http://factoryofdreams.net/graphic-design/index.html</link>
-            <guid isPermaLink="false">913594c7-1939-4e8d-af08-a8bc5c197168</guid>
-            <pubDate>Sun, 14 Feb 2016 18:37:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Website Creation]]></title>
-            <description><![CDATA[<article><h1>Website Creation</h1><p>I was a freelance web</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0bc8cc251026243f3b18aea791ab57bc61c71c37.png"></article>]]></description>
-            <link>http://factoryofdreams.net/website-creation/index.html</link>
-            <guid isPermaLink="false">c19a7534-7563-48d8-995a-8ff2a8d636f3</guid>
-            <pubDate>Sun, 14 Feb 2016 18:35:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Writing]]></title>
-            <description><![CDATA[<article><h1>Writing</h1><p>Since</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e084d09365c27239bd68e271442a8be46de75800.png"></article>]]></description>
-            <link>http://factoryofdreams.net/writing/index.html</link>
-            <guid isPermaLink="false">86b68c37-e4c5-482a-beed-69dc72ac7f6b</guid>
-            <pubDate>Sun, 14 Feb 2016 18:34:49 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Video Production]]></title>
-            <description><![CDATA[<article><h1>Video Production</h1><p>Through the years</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e2771da13f354ad14adddadf6a7a3a58a5a5a09.jpg"></article>]]></description>
-            <link>http://factoryofdreams.net/video-production/index.html</link>
+            <description><![CDATA[<h1>Video Production</h1>]]></description>
+            <link>http://www.posb.com.sg/personal/neighboursfirst/pasar-people.html</link>
             <guid isPermaLink="false">2e2eb09e-facd-45dc-b7ff-c6e630e4e58e</guid>
-            <pubDate>Sun, 14 Feb 2016 18:38:10 GMT</pubDate>
+            <pubDate>Tue, 16 Feb 2016 17:42:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
