@@ -17,8 +17,8 @@ keywords:
   - magical
   - gifts
 description: ''
-datePublished: '2016-02-16T17:52:25.908Z'
-dateModified: '2016-02-16T17:52:16.791Z'
+datePublished: '2016-02-16T17:55:22.130Z'
+dateModified: '2016-02-16T17:55:19.162Z'
 author:
   - name: POSBSingapore
     url: 'https://www.youtube.com/user/POSBSingapore'
@@ -36,14 +36,14 @@ app_links:
   - url: 'https://www.youtube.com/watch?v=TGzN0Bm3Kvk&feature=applinks'
     type: web
 title: Video Production
+sourcePath: _posts/2016-02-16-video-production.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-02-16-video-production.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
