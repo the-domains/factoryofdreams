@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-16T17:53:32.783Z'
-dateModified: '2016-02-16T17:53:11.958Z'
+datePublished: '2016-02-16T18:00:46.218Z'
+dateModified: '2016-02-16T18:00:39.555Z'
 title: Website Creation
 author: []
 sourcePath: _posts/2016-02-14-website-creation.md
@@ -22,4 +22,4 @@ publisher:
 _type: Blurb
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0bc8cc251026243f3b18aea791ab57bc61c71c37.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/06f3d481-1274-4dcc-870c-0c0bfacd662a.png)
