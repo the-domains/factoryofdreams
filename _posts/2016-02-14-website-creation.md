@@ -2,13 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-15T08:10:23.356Z'
-dateModified: '2016-02-15T08:09:55.249Z'
+datePublished: '2016-02-16T17:41:23.423Z'
+dateModified: '2016-02-16T17:41:20.565Z'
 title: Website Creation
 author: []
 sourcePath: _posts/2016-02-14-website-creation.md
@@ -22,5 +22,4 @@ publisher:
 _type: Blurb
 
 ---
-I was a freelance web for about
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ddbef8bb-6d9d-4dd5-b235-f8aa82e4d24c.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0bc8cc251026243f3b18aea791ab57bc61c71c37.png)
