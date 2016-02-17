@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Free web and website help for local non-profits
-datePublished: '2016-02-16T19:00:00.743Z'
-dateModified: '2016-02-16T18:59:59.330Z'
+datePublished: '2016-02-17T07:31:11.681Z'
+dateModified: '2016-02-17T07:31:08.420Z'
 title: Websites for Hope (WFH)
 author: []
 sourcePath: _posts/2016-02-15-websites-for-hope-wfh.md
@@ -28,10 +28,9 @@ Non-profits:
 
 _St Joseph Church Bukit Timah _| 2013 - Present
 
-* Webmastering
-* Banner designing
-* Website revamp
-* Move from iWeb to Wordpress
+_Once Upon A Monday_ | 2014
+
+Inkq Magazine | 2011
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/033767879596138ddb88e94411ce581a3c8f29e0.png)
 
 [0]: mailto:lee-victoria@live.com
