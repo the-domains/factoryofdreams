@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-16T17:41:47.750Z'
-dateModified: '2016-02-16T17:41:44.162Z'
+datePublished: '2016-02-17T07:33:25.423Z'
+dateModified: '2016-02-17T07:33:16.303Z'
 title: Graphic Design
 author: []
 sourcePath: _posts/2016-02-14-graphic-design.md
@@ -22,4 +22,4 @@ publisher:
 _type: Blurb
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9421a5b9107c08035566079d2831fcd5af710107.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4008d055df391d879459c55106d3ca42b16d573b.jpg)
