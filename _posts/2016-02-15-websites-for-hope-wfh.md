@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Free web and website help for local non-profits
-datePublished: '2016-02-17T07:31:11.681Z'
-dateModified: '2016-02-17T07:31:08.420Z'
+datePublished: '2016-02-29T16:10:11.498Z'
+dateModified: '2016-02-29T16:09:06.147Z'
 title: Websites for Hope (WFH)
 author: []
 sourcePath: _posts/2016-02-15-websites-for-hope-wfh.md
@@ -26,11 +26,13 @@ Websites For Hope (WFH) gives back to society by providing web designing and web
 
 Non-profits:
 
-_St Joseph Church Bukit Timah _| 2013 - Present
+_[St Joseph Church Bukit Timah][1]_| 2013 - Present
 
-_Once Upon A Monday_ | 2014
+_[Once Upon A Monday][2]_ | 2014 (co-project)
 
-Inkq Magazine | 2011
+_Inkq Magazine_ | 2012
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/033767879596138ddb88e94411ce581a3c8f29e0.png)
 
 [0]: mailto:lee-victoria@live.com
+[1]: http://stjoseph-bt.org.sg/
+[2]: http://www.onceuponamonday.org/
