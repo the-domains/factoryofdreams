@@ -1,6 +1,6 @@
 name: Factory Of Dreams
 favicon: null
-layout_spectrum: 0.62909
+layout_spectrum: 0.8603
 typography_spectrum: 0.93449
 title: Factory Of Dreams x Victoria Chanel Lee
 cta:
@@ -23,7 +23,7 @@ color:
     - '#b9c1cd'
     - '#9aacbc'
   brandStrength: 0.5
-  lightness: 1
-  saturation: 0.5
+  lightness: 0.75
+  saturation: 1
   rhythmicContrast: 0.5
 purpose: []
