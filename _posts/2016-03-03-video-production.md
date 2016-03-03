@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "Victoria Chanel Lee's video reel"
-datePublished: '2016-03-03T19:33:29.156Z'
-dateModified: '2016-03-03T19:32:18.681Z'
+datePublished: '2016-03-03T19:35:17.988Z'
+dateModified: '2016-03-03T19:35:15.449Z'
 title: Video Production
 author: []
 sourcePath: _posts/2016-03-03-video-production.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: video-production/index.html
-_type: Article
+_type: WebPage
 
 ---
 I was introduced to video production in polytechnic and have
