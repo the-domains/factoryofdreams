@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Victoria Chanel Lee's video reel"
-datePublished: '2016-03-03T19:32:12.549Z'
-dateModified: '2016-03-03T19:32:01.644Z'
+datePublished: '2016-03-03T19:33:29.156Z'
+dateModified: '2016-03-03T19:32:18.681Z'
 title: Video Production
 author: []
+sourcePath: _posts/2016-03-03-video-production.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-03-video-production.md
-published: true
 url: video-production/index.html
 _type: Article
 
