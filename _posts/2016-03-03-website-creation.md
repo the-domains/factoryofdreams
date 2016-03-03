@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Victoria Chanel Lee's website creation portfolio"
-datePublished: '2016-03-03T19:23:12.176Z'
-dateModified: '2016-03-03T19:21:17.785Z'
+datePublished: '2016-03-03T19:33:41.912Z'
+dateModified: '2016-03-03T19:25:34.493Z'
 title: Website Creation
 author: []
 sourcePath: _posts/2016-03-03-website-creation.md
@@ -46,7 +46,12 @@ ChannelNewsAsia.com Christmas Microsite 2011 | 2011
 
 Trades of Time | 2011
 
+More writing samples can be requested by contacing me at
+
+[lee-victoria@live.com][4]
+
 [0]: http://www.onceuponamonday.org/
 [1]: http://stjoseph-bt.org.sg/
 [2]: http://www.amendesigns.com/
 [3]: http://acuity-fieldwork.com/
+[4]: mailto:lee-victoria@live.com
