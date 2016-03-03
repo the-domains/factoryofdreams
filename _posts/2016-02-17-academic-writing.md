@@ -2,12 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-03T18:37:15.666Z'
-dateModified: '2016-03-03T18:37:03.169Z'
+datePublished: '2016-03-03T18:44:34.476Z'
+dateModified: '2016-03-03T18:44:14.911Z'
 title: Writing
 author: []
 sourcePath: _posts/2016-02-17-academic-writing.md
@@ -21,4 +22,4 @@ publisher:
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f69b0b8-b17b-4ae7-b91d-e13928ba0d6f.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6618d5db0bd224777db96d14474811ba2745a557.jpg)
