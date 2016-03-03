@@ -5,19 +5,19 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-03T19:49:47.428Z'
-dateModified: '2016-03-03T19:49:46.565Z'
-title: Written Work
+description: "Victoria Chanel Lee's Written works"
+datePublished: '2016-03-03T19:53:21.888Z'
+dateModified: '2016-03-03T19:53:10.630Z'
+title: Writing
 author: []
+sourcePath: _posts/2016-03-03-written-work.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-03-written-work.md
-published: true
 url: written-work/index.html
 _type: Article
 
