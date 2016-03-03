@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Victoria Chanel Lee's website creation portfolio"
-datePublished: '2016-03-03T19:02:41.498Z'
-dateModified: '2016-03-03T19:02:35.192Z'
+datePublished: '2016-03-03T19:07:19.392Z'
+dateModified: '2016-03-03T19:07:18.579Z'
 title: Website Creation
 author: []
 sourcePath: _posts/2016-03-03-website-creation.md
@@ -39,6 +39,8 @@ The Pretty Pastels | 2012
 [AMEN Designs][2] | 2012
 
 [AcuiTy Fieldwork][3] | 2012
+
+ChannelNewsAsia.com Christmas Microsite 2011 | 2011
 
 Trades of Time | 2011
 
