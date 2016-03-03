@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Victoria Chanel Lee's website creation portfolio"
-datePublished: '2016-03-03T18:58:25.386Z'
-dateModified: '2016-03-03T18:58:17.830Z'
+datePublished: '2016-03-03T19:02:41.498Z'
+dateModified: '2016-03-03T19:02:35.192Z'
 title: Website Creation
 author: []
 sourcePath: _posts/2016-03-03-website-creation.md
@@ -30,15 +30,17 @@ My Vet Animal Hospital | 2014
 
 [St Joseph Church Bukit Timah][1] | 2013
 
-Inkqmag.com | 2013
+Inkq Mag | 2013
 
-Inkq.co | 2012
+Inkq | 2012
 
 The Pretty Pastels | 2012
 
 [AMEN Designs][2] | 2012
 
 [AcuiTy Fieldwork][3] | 2012
+
+Trades of Time | 2011
 
 [0]: http://www.onceuponamonday.org/
 [1]: http://stjoseph-bt.org.sg/
