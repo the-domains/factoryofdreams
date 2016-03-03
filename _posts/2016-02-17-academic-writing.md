@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-03T18:44:34.476Z'
-dateModified: '2016-03-03T18:44:14.911Z'
+datePublished: '2016-03-03T18:59:01.336Z'
+dateModified: '2016-03-03T18:58:58.029Z'
 title: Writing
 author: []
 sourcePath: _posts/2016-02-17-academic-writing.md
