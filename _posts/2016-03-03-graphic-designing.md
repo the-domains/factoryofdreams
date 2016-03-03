@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Victoria Chanel Lee's graphic designing portfolio"
-datePublished: '2016-03-03T19:23:07.307Z'
-dateModified: '2016-03-03T19:22:45.389Z'
+datePublished: '2016-03-03T19:33:37.029Z'
+dateModified: '2016-03-03T19:23:16.709Z'
 title: Graphic Designing
 author: []
 sourcePath: _posts/2016-03-03-graphic-designing.md
