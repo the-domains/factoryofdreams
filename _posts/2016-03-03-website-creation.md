@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Victoria Chanel Lee's website creation portfolio"
-datePublished: '2016-03-03T19:07:19.392Z'
-dateModified: '2016-03-03T19:07:18.579Z'
+datePublished: '2016-03-03T19:23:12.176Z'
+dateModified: '2016-03-03T19:21:17.785Z'
 title: Website Creation
 author: []
 sourcePath: _posts/2016-03-03-website-creation.md
@@ -31,6 +31,8 @@ My Vet Animal Hospital | 2014
 [St Joseph Church Bukit Timah][1] | 2013
 
 Inkq Mag | 2013
+
+NTU Korean Cultural Society | 2013
 
 Inkq | 2012
 
