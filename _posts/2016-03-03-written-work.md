@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "Victoria Chanel Lee's Written works"
-datePublished: '2016-03-03T19:53:21.888Z'
-dateModified: '2016-03-03T19:53:10.630Z'
+datePublished: '2016-03-03T19:54:50.513Z'
+dateModified: '2016-03-03T19:54:42.166Z'
 title: Writing
 author: []
 sourcePath: _posts/2016-03-03-written-work.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: written-work/index.html
-_type: Article
+_type: WebPage
 
 ---
 I have written for Channel NewsAsia, NTUSU's The Tribune, and other publications. A selection of my written work can be viewed below:
