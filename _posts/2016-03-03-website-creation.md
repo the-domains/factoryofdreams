@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Victoria Chanel Lee's website creation portfolio"
-datePublished: '2016-03-07T15:46:26.885Z'
-dateModified: '2016-03-07T15:40:01.441Z'
+datePublished: '2016-03-07T15:51:47.126Z'
+dateModified: '2016-03-07T15:51:02.158Z'
 title: Website Creation
 author: []
 sourcePath: _posts/2016-03-03-website-creation.md
@@ -27,7 +27,7 @@ I have been creating websites since 2011\. A selection of my work can be viewed 
 My Vet Animal Hospital | 2014
 
 Wordpress.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3dea90cd1138f1f94dec3f2a9bbb19f50e58fc55.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a277f16b-14d9-460f-bbc2-9375e9d058fa.png)
 
 [Once Upon A Monday][0] | 2013 (co-project with another web developer)
 
