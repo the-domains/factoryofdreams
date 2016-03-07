@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Victoria Chanel Lee's Written works"
-datePublished: '2016-03-03T19:54:50.513Z'
-dateModified: '2016-03-03T19:54:42.166Z'
+datePublished: '2016-03-07T16:37:18.347Z'
+dateModified: '2016-03-07T16:37:13.977Z'
 title: Writing
 author: []
 sourcePath: _posts/2016-03-03-written-work.md
@@ -44,7 +44,7 @@ Lifestyle Articles (TV, Books & Entertainment)
 * [Humour strictly for the kids: Alvin and the Chipmunks: Chipwrecked][9]| _ChannelNewsAsia.com_
 * ["Wicked": An engaging tale of two witches][10]| _ChannelNewsAsia.com_
 
-More writing samples can be requested by contacing me at[lee-victoria@live.com][11]
+More writing samples can be requested by contacting me at [lee-victoria@live.com][11]
 
 [0]: https://drive.google.com/file/d/0B-ud2O67Ecj8T1Y0S2hUanRueWM/view?usp=sharing
 [1]: https://drive.google.com/file/d/0B-ud2O67Ecj8dGk3bGItUVhhVms/view?usp=sharing
