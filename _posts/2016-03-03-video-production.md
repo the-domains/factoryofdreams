@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Victoria Chanel Lee's video reel"
-datePublished: '2016-03-07T16:36:51.275Z'
-dateModified: '2016-03-07T16:36:47.277Z'
+datePublished: '2016-03-07T16:38:56.345Z'
+dateModified: '2016-03-07T16:38:52.573Z'
 title: Video Production
 author: []
 sourcePath: _posts/2016-03-03-video-production.md
@@ -26,11 +26,9 @@ https://www.youtube.com/watch?v=TGzN0Bm3Kvk
 
 Pasar People (Bangkit Market) | 2015
 
-2014
-
 https://www.youtube.com/watch?v=6GId85BW9hA
 
-Trades of Time Trailer
+Trades of Time Trailer | 2014
 
 My older works can be viewed on [my youtube channel][0].
 
