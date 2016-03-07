@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Victoria Chanel Lee's Written works"
-datePublished: '2016-03-07T16:37:18.347Z'
-dateModified: '2016-03-07T16:37:13.977Z'
+datePublished: '2016-03-07T17:57:51.159Z'
+dateModified: '2016-03-07T17:56:57.159Z'
 title: Writing
 author: []
 sourcePath: _posts/2016-03-03-written-work.md
@@ -24,25 +24,33 @@ _type: WebPage
 ---
 I have written for Channel NewsAsia, NTUSU's The Tribune, and other publications. A selection of my written work can be viewed below:
 
-Academic Writing
+**Academic Writing**
 
-* [Stuck At Stage Two: Decolonising The Peranakans in Josephine Chia's][0]_[Frog under a Coconut Shell][0]_(Undergraduate final year thesis)
+[Stuck At Stage Two: Decolonising The Peranakans in Josephine Chia's][0]_[Frog under a Coconut Shell][0]_(Undergraduate final year thesis)
 
-Features and Opinion Pieces
+**Features and Opinion Pieces**
 
-* [NTU Confessions: Yay or Nay?][1]|_The Tribune_
-* [Am I Just a Chinese in Name?][2]| _The Tribune_
-* [Education Revolution][3] | _The Tribune_
+[NTU Confessions: Yay or Nay?][1]|_The Tribune_
 
-Lifestyle Articles (TV, Books & Entertainment) 
+[Am I Just a Chinese in Name?][2]| _The Tribune_
 
-* [Ha Yu is a good Daddy no more][4]|_ChannelNewsAsia.com_
-* [Get set for more K-pop mania][5] | _ChannelNewsAsia.com_
-* [Adventure Time: A Post-Apocalyptic World][6] | _The Tribune_
-* [Who says history's a bore?][7]| _The Tribune_
-* [Sonnets from the Singlish: When Singlish gets turned into poetry][8]| _The Tribune_
-* [Humour strictly for the kids: Alvin and the Chipmunks: Chipwrecked][9]| _ChannelNewsAsia.com_
-* ["Wicked": An engaging tale of two witches][10]| _ChannelNewsAsia.com_
+[Education Revolution][3] | _The Tribune_
+
+**Lifestyle Articles (TV, Books & Entertainment) **
+
+[Ha Yu is a good Daddy no more][4]|_ChannelNewsAsia.com_
+
+[Get set for more K-pop mania][5] | _ChannelNewsAsia.com_
+
+[Adventure Time: A Post-Apocalyptic World][6] | _The Tribune_
+
+[Who says history's a bore?][7]| _The Tribune_
+
+[Sonnets from the Singlish: When Singlish gets turned into poetry][8]| _The Tribune_
+
+[Humour strictly for the kids: Alvin and the Chipmunks: Chipwrecked][9]| _ChannelNewsAsia.com_
+
+["Wicked": An engaging tale of two witches][10]| _ChannelNewsAsia.com_
 
 More writing samples can be requested by contacting me at [lee-victoria@live.com][11]
 
