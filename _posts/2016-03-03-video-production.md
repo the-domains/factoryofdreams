@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Victoria Chanel Lee's video reel"
-datePublished: '2016-03-03T19:35:17.988Z'
-dateModified: '2016-03-03T19:35:15.449Z'
+datePublished: '2016-03-07T16:36:51.275Z'
+dateModified: '2016-03-07T16:36:47.277Z'
 title: Video Production
 author: []
 sourcePath: _posts/2016-03-03-video-production.md
@@ -22,24 +22,16 @@ url: video-production/index.html
 _type: WebPage
 
 ---
-I was introduced to video production in polytechnic and have
+https://www.youtube.com/watch?v=TGzN0Bm3Kvk
 
-https://www.youtube.com/user/victoriaclee
-
-2015
-
-Pasar People (Bangkit Market) 
+Pasar People (Bangkit Market) | 2015
 
 2014
 
+https://www.youtube.com/watch?v=6GId85BW9hA
+
 Trades of Time Trailer
 
-2013
+My older works can be viewed on [my youtube channel][0].
 
-2012
-
-2011
-
-2010
-
-2009
+[0]: https://www.youtube.com/user/victoriaclee
