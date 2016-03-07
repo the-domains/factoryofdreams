@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Victoria Chanel Lee's graphic designing portfolio"
-datePublished: '2016-03-07T16:42:19.727Z'
-dateModified: '2016-03-07T16:42:15.065Z'
+datePublished: '2016-03-07T17:40:47.535Z'
+dateModified: '2016-03-07T17:40:45.300Z'
 title: Graphic Designing
 author: []
 sourcePath: _posts/2016-03-03-graphic-designing.md
@@ -23,9 +23,9 @@ _type: WebPage
 
 ---
 I have been creating graphics since 2007\. A selection of my works:
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a90cc23-3465-41ea-bf32-3fe9d91c311f.jpg)
 
 **Facebook cover images**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a90cc23-3465-41ea-bf32-3fe9d91c311f.jpg)
 
 NTU Korean Cultural Society | 2014
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4d03bd0-4aa2-4207-bd49-32ea650cba2f.png)
@@ -68,6 +68,6 @@ Contact number removed for privacy.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/44ad8f3c-0bf7-4060-8adb-5daa58a6201e.png)
 
 NTU KCS Kpop Dance Concert | 2014
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d714944-43e4-4186-a2e6-c7c84f680c95.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9c6a9864e388bffc4c9f36e4f116764d69ddc102.png)
 
 NTU KCS Korean Cultural Week | 2013
