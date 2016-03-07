@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Victoria Chanel Lee's video reel"
-datePublished: '2016-03-07T17:53:58.839Z'
-dateModified: '2016-03-07T17:53:50.307Z'
-title: 'Ihttps://www.youtube.com/watch?v=TGzN0Bm3KvkPasar People (Bangkit Market) | 2015 '
+datePublished: '2016-03-07T18:02:43.412Z'
+dateModified: '2016-03-07T18:02:39.708Z'
+title: Video Production
 author: []
 sourcePath: _posts/2016-03-03-video-production.md
 published: true
