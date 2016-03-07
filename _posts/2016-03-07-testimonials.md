@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T16:27:13.109Z'
-dateModified: '2016-03-07T15:46:57.236Z'
+datePublished: '2016-03-07T17:39:37.665Z'
+dateModified: '2016-03-07T17:39:14.972Z'
 title: Testimonials
 author: []
 sourcePath: _posts/2016-03-07-testimonials.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: testimonials/index.html
-_type: Article
+_type: WebPage
 
 ---
 Testimonials
