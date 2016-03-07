@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T14:27:14.445Z'
-dateModified: '2016-03-07T14:27:13.561Z'
+datePublished: '2016-03-07T18:05:36.816Z'
+dateModified: '2016-03-07T18:05:25.201Z'
 title: Writing
 author: []
 sourcePath: _posts/2016-02-17-academic-writing.md
@@ -22,4 +22,4 @@ publisher:
 _type: Blurb
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6618d5db0bd224777db96d14474811ba2745a557.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b720a96f-884b-4bad-a842-c68acc8dea87.jpg)
