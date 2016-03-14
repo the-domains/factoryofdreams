@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: "Victoria Chanel Lee's video reel"
-datePublished: '2016-03-07T18:11:04.861Z'
-dateModified: '2016-03-07T18:10:56.745Z'
+description: 'https://www.youtube.com/watch?v=6GId85BW9hA'
+datePublished: '2016-03-14T10:22:17.907Z'
+dateModified: '2016-03-14T10:22:13.646Z'
 title: Video Production
 author: []
 sourcePath: _posts/2016-03-03-video-production.md
@@ -22,8 +22,6 @@ url: video-production/index.html
 _type: WebPage
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b172f5e3-5a1b-4e8b-9267-4507440e7001.png)
-
 I have been producing, editing and writing short films and videos since 2009\.
 
 https://www.youtube.com/watch?v=TGzN0Bm3Kvk
