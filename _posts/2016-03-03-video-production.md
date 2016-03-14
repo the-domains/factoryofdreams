@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'https://www.youtube.com/watch?v=6GId85BW9hA'
-datePublished: '2016-03-14T10:22:17.907Z'
-dateModified: '2016-03-14T10:22:13.646Z'
+datePublished: '2016-03-14T10:27:55.291Z'
+dateModified: '2016-03-14T10:27:47.224Z'
 title: Video Production
 author: []
 sourcePath: _posts/2016-03-03-video-production.md
@@ -32,6 +32,7 @@ https://www.youtube.com/watch?v=6GId85BW9hA
 
 Trades of Time Trailer | 2011
 
-My older work can be viewed on [my youtube channel][0].
+More of my videos can be viewed on [my youtube channel][0].
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/57d35dc1-b063-4c51-b09f-4b73a19428c6.png)
 
 [0]: https://www.youtube.com/user/victoriaclee
