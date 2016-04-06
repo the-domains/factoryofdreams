@@ -2,13 +2,12 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T18:02:09.812Z'
-dateModified: '2016-03-07T18:01:59.747Z'
+datePublished: '2016-04-06T11:00:28.781Z'
+dateModified: '2016-04-06T11:00:12.087Z'
 title: Photography
 author: []
 sourcePath: _posts/2016-02-15-photography.md
@@ -22,4 +21,4 @@ publisher:
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e223f164-05e7-40a4-8a12-3b6876f68cfb.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0837810c-c932-41ce-a908-0ec8c1c6ab90.jpg)
