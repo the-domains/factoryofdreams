@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Websites For Hope (WFH) gives back to society by providing web designing and website creation services to Singaporean non-profits for free. Creating websites is what I love to do, and this is simply my own way of giving back to society, one website at a time. Please contact me at lee-victoria@live.com for more information.'
-datePublished: '2016-03-14T10:25:20.873Z'
-dateModified: '2016-03-14T10:24:39.547Z'
+datePublished: '2016-04-06T10:52:01.272Z'
+dateModified: '2016-04-06T10:46:53.558Z'
 title: Websites for Hope (WFH)
 author: []
 sourcePath: _posts/2016-02-15-websites-for-hope-wfh.md
@@ -31,7 +31,6 @@ _[St Joseph Church Bukit Timah][1]_| 2013 - Present
 _[Once Upon A Monday][2]_ | 2014 (co-project)
 
 _Inkq Magazine_ | 2012
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/28035dff-8ce4-4c89-bb78-5cc6e577d798.png)
 
 [0]: mailto:lee-victoria@live.com
 [1]: http://stjoseph-bt.org.sg/
