@@ -2,22 +2,24 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
-starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-06T11:00:28.781Z'
-dateModified: '2016-04-06T11:00:12.087Z'
-title: Photography
-author: []
+datePublished: '2016-05-11T07:10:21.787Z'
+dateModified: '2016-05-11T07:08:54.609Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-02-15-photography.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+starred: false
 _type: Blurb
 
 ---
