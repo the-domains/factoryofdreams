@@ -3,26 +3,26 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: 'Websites For Hope (WFH) gives back to society by providing web designing and website creation services to Singaporean non-profits for free. Creating websites is what I love to do, and this is simply my own way of giving back to society, one website at a time. Please contact me at lee-victoria@live.com for more information.'
-datePublished: '2016-04-06T10:52:01.272Z'
-dateModified: '2016-04-06T10:46:53.558Z'
-title: Websites for Hope (WFH)
+datePublished: '2016-05-11T07:21:42.681Z'
+dateModified: '2016-05-11T07:20:08.719Z'
+title: ''
 author: []
 sourcePath: _posts/2016-02-15-websites-for-hope-wfh.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+starred: false
 url: websites-for-hope-wfh/index.html
 _type: WebPage
 
 ---
 Websites For Hope (WFH) gives back to society by providing web designing and website creation services to Singaporean non-profits for free. Creating websites is what I love to do, and this is simply my own way of giving back to society, one website at a time. Please contact me at [lee-victoria@live.com][0] for more information.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f872335d-c646-4708-a1cf-61e50102148c.png)
 
 Non-profits:
 
