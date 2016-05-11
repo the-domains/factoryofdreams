@@ -3,26 +3,25 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: "Victoria Chanel Lee's Written works"
-datePublished: '2016-03-07T17:57:51.159Z'
-dateModified: '2016-03-07T17:56:57.159Z'
-title: Writing
+description: "I have written for Channel NewsAsia, The Peranakan (TPAS Magazine), NTUSU's The Tribune, and other publications. A selection of my written work can be viewed below:"
+datePublished: '2016-05-11T07:15:20.419Z'
+dateModified: '2016-05-11T07:14:15.529Z'
+title: ''
 author: []
 sourcePath: _posts/2016-03-03-written-work.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+starred: false
 url: written-work/index.html
 _type: WebPage
 
 ---
-I have written for Channel NewsAsia, NTUSU's The Tribune, and other publications. A selection of my written work can be viewed below:
+I have written for Channel NewsAsia, The Peranakan (TPAS Magazine), NTUSU's The Tribune, and other publications. A selection of my written work can be viewed below:
 
 **Academic Writing**
 
@@ -38,7 +37,7 @@ I have written for Channel NewsAsia, NTUSU's The Tribune, and other publications
 
 **Lifestyle Articles (TV, Books & Entertainment) **
 
-[Ha Yu is a good Daddy no more][4]|_ChannelNewsAsia.com_
+[Ha Yu is a good Daddy no more][4]| _ChannelNewsAsia.com_
 
 [Get set for more K-pop mania][5] | _ChannelNewsAsia.com_
 
