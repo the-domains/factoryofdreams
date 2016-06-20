@@ -2,13 +2,16 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-20T04:54:20.214Z'
-dateModified: '2016-06-20T04:49:26.839Z'
+datePublished: '2016-06-20T05:01:07.925Z'
+dateModified: '2016-06-20T04:59:06.403Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-02-17-academic-writing.md
 authors: []
 publisher: null
