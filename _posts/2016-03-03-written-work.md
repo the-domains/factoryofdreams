@@ -4,18 +4,17 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: "I have written for Channel NewsAsia, The Peranakan (TPAS Magazine), NTUSU's The Tribune, and other publications. A selection of my written work can be viewed below:"
-datePublished: '2016-05-11T07:15:20.419Z'
-dateModified: '2016-05-11T07:14:15.529Z'
+description: >-
+  I have written for Channel NewsAsia, The Peranakan (TPAS Magazine), NTUSU's
+  The Tribune, and other publications. A selection of my written work can be
+  viewed below:
+datePublished: '2016-06-20T05:04:56.525Z'
+dateModified: '2016-06-20T05:04:52.232Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-03-written-work.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 url: written-work/index.html
 _type: WebPage
