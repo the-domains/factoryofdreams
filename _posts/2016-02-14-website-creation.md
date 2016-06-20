@@ -2,24 +2,18 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
-starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T18:07:23.774Z'
-dateModified: '2016-03-07T18:06:53.926Z'
-title: Website Creation
+datePublished: '2016-06-20T04:54:14.122Z'
+dateModified: '2016-06-20T04:52:07.339Z'
+title: ''
 author: []
 sourcePath: _posts/2016-02-14-website-creation.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
+starred: false
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/53115b39-9109-4fbc-895a-f714a41cdebc.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9110f6a4-23ab-4180-aeb3-1348df7154bf.png)
