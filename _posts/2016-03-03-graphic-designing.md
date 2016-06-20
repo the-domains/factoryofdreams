@@ -3,21 +3,18 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: "Victoria Chanel Lee's graphic designing portfolio"
-datePublished: '2016-03-07T17:40:47.535Z'
-dateModified: '2016-03-07T17:40:45.300Z'
-title: Graphic Designing
-author: []
+description: 'I have been creating graphics since 2007. A selection of my works:'
+datePublished: '2016-06-20T04:59:35.042Z'
+dateModified: '2016-06-20T04:56:12.775Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-03-03-graphic-designing.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
+starred: false
 url: graphic-designing/index.html
 _type: WebPage
 
@@ -53,11 +50,6 @@ NTU Korean Cultural Society | 2013
 Inkq. | 2012
 
 **Namecards**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f895d2c-7538-4a02-8511-d6cf3bf2ed60.png)
-
-The Twinees | 2014
-
-Contact numbers removed for privacy.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/78f5cd26-7f39-4046-bc48-73bacebcb61a.png)
 
 Trades of Time | 2011
