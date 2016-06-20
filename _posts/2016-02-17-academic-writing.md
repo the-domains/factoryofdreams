@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-20T04:49:17.270Z'
-dateModified: '2016-06-20T04:48:15.795Z'
+datePublished: '2016-06-20T04:54:20.214Z'
+dateModified: '2016-06-20T04:49:26.839Z'
 title: ''
 author: []
 sourcePath: _posts/2016-02-17-academic-writing.md
